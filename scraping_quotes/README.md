@@ -15,8 +15,8 @@ Website used to scrape: `http://quotes.toscrape.com`
 
   #### To install:
   After installing **Python** open your terminal window and type:
-  ```pip install requests```
-  ```pip install beautifulsoup4```
+  - ```pip install requests```
+  - ```pip install beautifulsoup4```
 
 
 ## Run
