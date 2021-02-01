@@ -2,7 +2,7 @@
 
 In this repository I'm scrapping books, author and tags from a website. Testing my skills, using a very well structured code within the folders.
 
-Website used to scrape: `[https://books.toscrape.com/](https://books.toscrape.com/)`
+Website used to scrape: [books.toscrape.com/](https://books.toscrape.com/)
 
 ## Pre requisites
 
