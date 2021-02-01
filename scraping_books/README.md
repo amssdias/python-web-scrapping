@@ -1,4 +1,4 @@
-# Scraping quotes
+# Scraping Books
 
 In this repository I'm scrapping name, link, price and ratings from a book from a website. Testing my skills, using a very well structured code within the folders.
 
