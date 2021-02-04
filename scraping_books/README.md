@@ -4,10 +4,6 @@ In this repository I'm scrapping name, link, price and ratings from a book from 
 
 Website used to scrape: [books.toscrape.com/](https://books.toscrape.com/)
 
-## Pre requisites
-
- * [Python](https://www.python.org/downloads/) - 3.8.4 or up
-
  ### Libraries
 
  * Requests

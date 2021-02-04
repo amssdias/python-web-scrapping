@@ -4,9 +4,6 @@ In this repository I'm scrapping quotes, author and tags from a website. Testing
 
 Website used to scrape: `http://quotes.toscrape.com`
 
-## Pre requisites
-
- * [Python](https://www.python.org/downloads/) - 3.8.4 or up
 
  ### Libraries
 

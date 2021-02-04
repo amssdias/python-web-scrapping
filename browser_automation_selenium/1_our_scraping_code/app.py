@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-from pages.quotes_page import QuotesPage
+from pages.quotes_page import QuotesPage, InvalidTagForAuthorError
 
 try:
     author = input("Enter the author you'd like quotes from: ")
