@@ -10,7 +10,7 @@ Website used to scrape: `http://quotes.toscrape.com`
  * Requests
  * Beautifulsoup4
 
-  #### To install:
+  #### To install (if didn't install Pipenv):
   After installing **Python** open your terminal window and type:
   - ```pip install requests```
   - ```pip install beautifulsoup4```
